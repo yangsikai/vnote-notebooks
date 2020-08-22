@@ -15,6 +15,9 @@
     "sub_directories": [
         {
             "name": "work"
+        },
+        {
+            "name": "BUG"
         }
     ],
     "version": "1"

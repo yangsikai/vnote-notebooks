@@ -11,6 +11,15 @@
         },
         {
             "name": "标准库"
+        },
+        {
+            "name": "Django"
+        },
+        {
+            "name": "Flask"
+        },
+        {
+            "name": "GUI"
         }
     ],
     "version": "1"

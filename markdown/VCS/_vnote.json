@@ -3,6 +3,12 @@
     "files": [
     ],
     "sub_directories": [
+        {
+            "name": "SVN"
+        },
+        {
+            "name": "Git"
+        }
     ],
     "version": "1"
 }

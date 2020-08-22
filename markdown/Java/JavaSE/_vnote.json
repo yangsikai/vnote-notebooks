@@ -3,6 +3,27 @@
     "files": [
     ],
     "sub_directories": [
+        {
+            "name": "基础语法"
+        },
+        {
+            "name": "面向对象"
+        },
+        {
+            "name": "容器"
+        },
+        {
+            "name": "IO流"
+        },
+        {
+            "name": "多线程"
+        },
+        {
+            "name": "网络编程"
+        },
+        {
+            "name": "JDBC"
+        }
     ],
     "version": "1"
 }

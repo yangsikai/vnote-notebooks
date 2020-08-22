@@ -3,6 +3,24 @@
     "files": [
     ],
     "sub_directories": [
+        {
+            "name": "C语言"
+        },
+        {
+            "name": "C++基本语法"
+        },
+        {
+            "name": "STL标准库"
+        },
+        {
+            "name": "Win32API"
+        },
+        {
+            "name": "MFC"
+        },
+        {
+            "name": "QT"
+        }
     ],
     "version": "1"
 }

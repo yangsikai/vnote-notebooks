@@ -3,6 +3,18 @@
     "files": [
     ],
     "sub_directories": [
+        {
+            "name": "Linux核心"
+        },
+        {
+            "name": "常用命令"
+        },
+        {
+            "name": "Vim编辑器"
+        },
+        {
+            "name": "Shell编程"
+        }
     ],
     "version": "1"
 }

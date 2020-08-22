@@ -3,6 +3,12 @@
     "files": [
     ],
     "sub_directories": [
+        {
+            "name": "Servlet"
+        },
+        {
+            "name": "JSP"
+        }
     ],
     "version": "1"
 }

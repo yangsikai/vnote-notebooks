@@ -17,6 +17,15 @@
         },
         {
             "name": "Spring"
+        },
+        {
+            "name": "SpringMVC"
+        },
+        {
+            "name": "SpringBoot"
+        },
+        {
+            "name": "GUI"
         }
     ],
     "version": "1"

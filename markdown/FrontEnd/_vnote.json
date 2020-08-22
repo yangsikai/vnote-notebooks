@@ -3,6 +3,54 @@
     "files": [
     ],
     "sub_directories": [
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "CSS"
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "TypeScript"
+        },
+        {
+            "name": "jQuery"
+        },
+        {
+            "name": "NodeJS"
+        },
+        {
+            "name": "Canvas"
+        },
+        {
+            "name": "WebGL"
+        },
+        {
+            "name": "UI框架"
+        },
+        {
+            "name": "Webpack"
+        },
+        {
+            "name": "Electron"
+        },
+        {
+            "name": "Angular"
+        },
+        {
+            "name": "Vue"
+        },
+        {
+            "name": "React"
+        },
+        {
+            "name": "Gulp"
+        },
+        {
+            "name": "Grunt"
+        }
     ],
     "version": "1"
 }
