@@ -1,0 +1,23 @@
+{
+    "created_time": "2020-08-22T21:57:30Z",
+    "files": [
+    ],
+    "sub_directories": [
+        {
+            "name": "ML"
+        },
+        {
+            "name": "DL"
+        },
+        {
+            "name": "CV"
+        },
+        {
+            "name": "DM"
+        },
+        {
+            "name": "NLP"
+        }
+    ],
+    "version": "1"
+}

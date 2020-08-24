@@ -7,7 +7,13 @@
     "recycle_bin_folder": "_v_recycle_bin",
     "sub_directories": [
         {
-            "name": "notes"
+            "name": "temp"
+        },
+        {
+            "name": "Tools"
+        },
+        {
+            "name": "通用"
         },
         {
             "name": "安全"
@@ -16,16 +22,34 @@
             "name": "C++"
         },
         {
+            "name": "DS & AL"
+        },
+        {
+            "name": "AI"
+        },
+        {
             "name": "Java"
         },
         {
             "name": "FrontEnd"
         },
         {
+            "name": "Android"
+        },
+        {
+            "name": "Linux"
+        },
+        {
+            "name": "Docker"
+        },
+        {
             "name": "Python"
         },
         {
             "name": "DataBase"
+        },
+        {
+            "name": "BigData相关"
         },
         {
             "name": "Go"
@@ -35,9 +59,6 @@
         },
         {
             "name": "Php"
-        },
-        {
-            "name": "Linux"
         },
         {
             "name": "Windows"
@@ -53,6 +74,15 @@
         },
         {
             "name": "Nginx"
+        },
+        {
+            "name": "Scala"
+        },
+        {
+            "name": "VB"
+        },
+        {
+            "name": "Delphi"
         }
     ],
     "tags": [

@@ -3,6 +3,18 @@
     "files": [
     ],
     "sub_directories": [
+        {
+            "name": "类与对象"
+        },
+        {
+            "name": "泛型"
+        },
+        {
+            "name": "注解"
+        },
+        {
+            "name": "反射"
+        }
     ],
     "version": "1"
 }

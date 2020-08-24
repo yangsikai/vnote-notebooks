@@ -1,0 +1,49 @@
+vnote_backup_file_826537664 C:/Users/hp/Documents/vnote_notebooks/markdown/FrontEnd/React/React元素渲染.md
+# React元素渲染
+
+ReactDOM.render(jsx-obj, js-dom-obj);
+
+jsx-obj 写法可以创建元素对象，一个元素，或者一个组件只能有一个根节点（根元素）
+
+更新元素渲染：
+> React 元素都是不可变的。当元素被创建之后，你是无法改变其内容或属性的。
+> 目前更新界面的唯一办法是创建一个新的元素，然后将它传入 ReactDOM.render() 方法
+
+> React 只会更新必要的部分：
+> - 值得注意的是 React DOM 首先会比较元素内容先后的不同，而在渲染过程中只会更新改变了的部分
+
+例子：显示当前时间：
+```js
+function clock() {
+  let time = new Date().toLocaleTimeString();
+  let element = <h1>现在的时间是：{time}</h1>;
+  let root = document.querySelector('#root');
+  ReactDOM.render(element, root);
+}
+
+clock();
+
+setInterval(()=>clock(), 1000);
+```
+
+另一种写法：
+注：在 `render()` 方法中，需要使用 `this.props` 替换 `props`
+```js
+// React 的函数式组件
+function Clock(props) {
+  return (
+    <div>
+      <h1>现在时间是：{props.date.toLocaleTimeString()}</h1>
+    </div>
+  );
+}
+
+function run() {
+  ReactDOM.render(
+    <Clock date={new Date()}/>,
+    document.querySelector('#root')
+  );
+}
+
+setInterval(run, 1000);
+```

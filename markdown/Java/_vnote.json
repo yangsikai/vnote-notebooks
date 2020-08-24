@@ -7,25 +7,40 @@
             "name": "JavaSE"
         },
         {
-            "name": "JavaEE"
+            "name": "Java8+新特性"
         },
         {
-            "name": "Mybatis"
+            "name": "JVM"
         },
         {
-            "name": "Hibernate"
+            "name": "Maven"
         },
         {
-            "name": "Spring"
-        },
-        {
-            "name": "SpringMVC"
-        },
-        {
-            "name": "SpringBoot"
+            "name": "Gradle"
         },
         {
             "name": "GUI"
+        },
+        {
+            "name": "JavaEE"
+        },
+        {
+            "name": "数据库"
+        },
+        {
+            "name": "Spring全家桶"
+        },
+        {
+            "name": "消息队列"
+        },
+        {
+            "name": "设计模式"
+        },
+        {
+            "name": "JSON"
+        },
+        {
+            "name": "Office"
         }
     ],
     "version": "1"

@@ -4,6 +4,12 @@
     ],
     "sub_directories": [
         {
+            "name": "模块管理"
+        },
+        {
+            "name": "Tools"
+        },
+        {
             "name": "Base"
         },
         {
@@ -20,6 +26,9 @@
         },
         {
             "name": "GUI"
+        },
+        {
+            "name": "图像处理"
         }
     ],
     "version": "1"

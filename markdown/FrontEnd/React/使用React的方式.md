@@ -1,0 +1,24 @@
+# 使用React的方式
+
+## 引入js文件
+
+例如：
+```html
+<script crossorigin src="https://unpkg.com/react@16/umd/react.development.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+```
+
+
+## 使用脚手架（create-react-app）
+
+安装脚手架：`npm install -g create-react-app`
+
+在当前路径下创建项目：`create-react-app 项目名称`（会在当前文件夹下新建一个文件夹，名称为项目名称）
+
+脚手架项目结构：
+![](_v_images/20200823131608629_8360.png)
+
+
+
+
+

@@ -4,6 +4,9 @@
     ],
     "sub_directories": [
         {
+            "name": "Tomcat"
+        },
+        {
             "name": "Servlet"
         },
         {

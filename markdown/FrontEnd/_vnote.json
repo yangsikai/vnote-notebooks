@@ -19,7 +19,10 @@
             "name": "jQuery"
         },
         {
-            "name": "NodeJS"
+            "name": "Node"
+        },
+        {
+            "name": "Deno"
         },
         {
             "name": "Canvas"

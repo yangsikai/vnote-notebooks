@@ -3,6 +3,12 @@
     "files": [
     ],
     "sub_directories": [
+        {
+            "name": "Windows技巧"
+        },
+        {
+            "name": "cmd命令与批处理"
+        }
     ],
     "version": "1"
 }

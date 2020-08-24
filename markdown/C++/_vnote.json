@@ -7,10 +7,16 @@
             "name": "C语言"
         },
         {
+            "name": "Linux C"
+        },
+        {
             "name": "C++基本语法"
         },
         {
             "name": "STL标准库"
+        },
+        {
+            "name": "项目构建"
         },
         {
             "name": "Win32API"
@@ -20,6 +26,9 @@
         },
         {
             "name": "QT"
+        },
+        {
+            "name": "图像处理"
         }
     ],
     "version": "1"

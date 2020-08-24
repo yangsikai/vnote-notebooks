@@ -5,6 +5,9 @@
     "sub_directories": [
         {
             "name": "AngularJS"
+        },
+        {
+            "name": "Angular基础"
         }
     ],
     "version": "1"

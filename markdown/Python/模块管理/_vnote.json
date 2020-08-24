@@ -1,0 +1,20 @@
+{
+    "created_time": "2020-08-22T21:47:36Z",
+    "files": [
+    ],
+    "sub_directories": [
+        {
+            "name": "pip"
+        },
+        {
+            "name": "Virtualenv"
+        },
+        {
+            "name": "PipEnv"
+        },
+        {
+            "name": "conda & Anaconda"
+        }
+    ],
+    "version": "1"
+}

@@ -1,0 +1,44 @@
+{
+    "created_time": "2020-08-22T02:57:26Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-08-22T17:03:57Z",
+            "modified_time": "2020-08-22T17:03:57Z",
+            "name": "Arrays 数组工具类.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-08-22T21:05:06Z",
+            "modified_time": "2020-08-22T21:05:31Z",
+            "name": "基本类型包装类.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-08-22T21:51:08Z",
+            "modified_time": "2020-08-22T21:56:08Z",
+            "name": "Scanner.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "字符串相关"
+        },
+        {
+            "name": "日期时间相关"
+        }
+    ],
+    "version": "1"
+}
