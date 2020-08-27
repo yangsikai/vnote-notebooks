@@ -22,16 +22,13 @@
             "name": "jQuery"
         },
         {
+            "name": "图形"
+        },
+        {
             "name": "Node"
         },
         {
             "name": "Deno"
-        },
-        {
-            "name": "Canvas"
-        },
-        {
-            "name": "WebGL"
         },
         {
             "name": "UI框架"
