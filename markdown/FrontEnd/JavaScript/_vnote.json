@@ -25,10 +25,10 @@
             "name": "Promise"
         },
         {
-            "name": "BOM"
+            "name": "ES6+"
         },
         {
-            "name": "DOM"
+            "name": "Web API 接口"
         },
         {
             "name": "JS库开发"

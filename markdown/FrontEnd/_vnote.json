@@ -4,6 +4,9 @@
     ],
     "sub_directories": [
         {
+            "name": "#代码#"
+        },
+        {
             "name": "HTML"
         },
         {

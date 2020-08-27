@@ -7,9 +7,6 @@
             "name": "C语言"
         },
         {
-            "name": "Linux C"
-        },
-        {
             "name": "C++基本语法"
         },
         {
@@ -17,6 +14,9 @@
         },
         {
             "name": "项目构建"
+        },
+        {
+            "name": "Linux C"
         },
         {
             "name": "Win32API"
