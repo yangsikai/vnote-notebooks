@@ -1,0 +1,144 @@
+{
+    "created_time": "2020-08-28T02:31:27Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-08-28T02:32:30Z",
+            "modified_time": "2020-08-28T02:33:51Z",
+            "name": "简单使用.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "assert 断言"
+        },
+        {
+            "name": "async_hooks 异步钩子"
+        },
+        {
+            "name": "Buffer 缓冲器"
+        },
+        {
+            "name": "child_process 子进程"
+        },
+        {
+            "name": "cluster 集群"
+        },
+        {
+            "name": "console 控制台"
+        },
+        {
+            "name": "crypto 加密"
+        },
+        {
+            "name": "debugger 调试器"
+        },
+        {
+            "name": "dgram 数据报"
+        },
+        {
+            "name": "dns 域名服务器"
+        },
+        {
+            "name": "domain 域"
+        },
+        {
+            "name": "Error 错误"
+        },
+        {
+            "name": "events 事件触发器"
+        },
+        {
+            "name": "fs 文件系统"
+        },
+        {
+            "name": "global 全局变量"
+        },
+        {
+            "name": "http"
+        },
+        {
+            "name": "http2"
+        },
+        {
+            "name": "https"
+        },
+        {
+            "name": "inspector 检查器"
+        },
+        {
+            "name": "module 模块"
+        },
+        {
+            "name": "net 网络"
+        },
+        {
+            "name": "os 操作系统"
+        },
+        {
+            "name": "path 路径"
+        },
+        {
+            "name": "perf_hooks 性能钩子"
+        },
+        {
+            "name": "process 进程"
+        },
+        {
+            "name": "punycode 域名代码"
+        },
+        {
+            "name": "querystring 查询字符串"
+        },
+        {
+            "name": "readline 逐行读取"
+        },
+        {
+            "name": "repl 交互式解释器"
+        },
+        {
+            "name": "stream 流"
+        },
+        {
+            "name": "stream_decoder 字符串解码器"
+        },
+        {
+            "name": "timer 定时器"
+        },
+        {
+            "name": "tls 安全传输层"
+        },
+        {
+            "name": "trace_events 跟踪事件"
+        },
+        {
+            "name": "tty 终端"
+        },
+        {
+            "name": "url URL"
+        },
+        {
+            "name": "util 实用工具"
+        },
+        {
+            "name": "v8 V8引擎"
+        },
+        {
+            "name": "vm 虚拟机"
+        },
+        {
+            "name": "wasi WASI"
+        },
+        {
+            "name": "worker_threads 工作线程"
+        },
+        {
+            "name": "zlib 压缩"
+        }
+    ],
+    "version": "1"
+}

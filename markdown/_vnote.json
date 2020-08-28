@@ -70,19 +70,22 @@
             "name": "VCS"
         },
         {
-            "name": "Kotlin"
-        },
-        {
             "name": "Nginx"
-        },
-        {
-            "name": "Scala"
         },
         {
             "name": "VB"
         },
         {
             "name": "Delphi"
+        },
+        {
+            "name": "Scala"
+        },
+        {
+            "name": "Kotlin"
+        },
+        {
+            "name": "Rust"
         }
     ],
     "tags": [

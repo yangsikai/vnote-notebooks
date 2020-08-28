@@ -11,6 +11,9 @@
         },
         {
             "name": "Zepto.js"
+        },
+        {
+            "name": "常用插件"
         }
     ],
     "version": "1"

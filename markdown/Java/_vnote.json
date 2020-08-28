@@ -7,7 +7,7 @@
             "name": "JavaSE"
         },
         {
-            "name": "Java8+新特性"
+            "name": "Java8+特性"
         },
         {
             "name": "JVM"
@@ -47,6 +47,12 @@
         },
         {
             "name": "Dubbo"
+        },
+        {
+            "name": "Apache Commons"
+        },
+        {
+            "name": "Guava"
         }
     ],
     "version": "1"
