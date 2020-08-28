@@ -40,6 +40,9 @@
             "name": "Linux"
         },
         {
+            "name": "MicroSoft"
+        },
+        {
             "name": "Docker"
         },
         {
@@ -61,9 +64,6 @@
             "name": "Php"
         },
         {
-            "name": "Windows"
-        },
-        {
             "name": "Matlab"
         },
         {
@@ -80,6 +80,9 @@
         },
         {
             "name": "Scala"
+        },
+        {
+            "name": "Groovy"
         },
         {
             "name": "Kotlin"
