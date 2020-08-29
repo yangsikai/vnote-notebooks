@@ -4,6 +4,9 @@
     ],
     "sub_directories": [
         {
+            "name": "#代码#"
+        },
+        {
             "name": "基本语法"
         },
         {
@@ -29,9 +32,6 @@
         },
         {
             "name": "Web API 接口"
-        },
-        {
-            "name": "JS库开发"
         },
         {
             "name": "JS模块化"
