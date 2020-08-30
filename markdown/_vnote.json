@@ -58,6 +58,12 @@
             "name": "Go"
         },
         {
+            "name": "Rust"
+        },
+        {
+            "name": "Julia"
+        },
+        {
             "name": "C#"
         },
         {
@@ -88,7 +94,10 @@
             "name": "Kotlin"
         },
         {
-            "name": "Rust"
+            "name": "Flutter"
+        },
+        {
+            "name": "GraphQL"
         }
     ],
     "tags": [

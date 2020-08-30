@@ -4,6 +4,9 @@
     ],
     "sub_directories": [
         {
+            "name": "#代码#"
+        },
+        {
             "name": "C语言"
         },
         {
@@ -16,7 +19,7 @@
             "name": "项目构建"
         },
         {
-            "name": "Linux C"
+            "name": "Linux 编程"
         },
         {
             "name": "Win32API"
