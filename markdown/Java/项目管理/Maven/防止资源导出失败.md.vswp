@@ -1,0 +1,26 @@
+vnote_backup_file_826537664 C:/Users/hp/Documents/vnote_notebooks/markdown/Java/项目管理/Maven/防止资源导出失败.md
+# 防止资源导出失败
+
+```xml
+<build>
+    <!--在build中配置resources，来防止我们资源导出失败的问题-->
+    <resources>
+        <resource>
+            <directory>src/main/resources</directory>
+            <excludes>
+                <exclude>**/*.properties</exclude>
+                <exclude>**/*.xml</exclude>
+            </excludes>
+            <filtering>false</filtering>
+        </resource>
+        <resource>
+            <directory>src/main/java</directory>
+            <includes>
+                <include>**/*.properties</include>
+                <include>**/*.xml</include>
+            </includes>
+            <filtering>false</filtering>
+        </resource>
+    </resources>
+</build>
+```

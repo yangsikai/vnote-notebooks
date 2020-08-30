@@ -7,10 +7,13 @@
             "name": "Tomcat"
         },
         {
-            "name": "Servlet"
+            "name": "Servlet & JSP"
         },
         {
-            "name": "JSP"
+            "name": "SSH"
+        },
+        {
+            "name": "SSM"
         }
     ],
     "version": "1"

@@ -37,6 +37,9 @@
             "name": "NPM"
         },
         {
+            "name": "PNPM"
+        },
+        {
             "name": "Yarn"
         }
     ],
