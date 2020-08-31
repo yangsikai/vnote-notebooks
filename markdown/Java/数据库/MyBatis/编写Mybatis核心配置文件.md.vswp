@@ -1,0 +1,40 @@
+vnote_backup_file_826537664 C:/Users/hp/Documents/vnote_notebooks/markdown/Java/数据库/MyBatis/编写Mybatis核心配置文件.md
+# 编写Mybatis核心配置文件
+
+mybatis-config.xml
+```xml
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+    <!--核心配置文件-->
+
+    <!--配置数据库环境，默认使用development环境-->
+    <environments default="development">
+        <!--配置一个环境 development-->
+        <environment id="development">
+            <!--配置事务管理器-->
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <!--数据库驱动-->
+                <property name="driver" value="com.mysql.jdbc.Driver"/>
+                <!--数据库连接-->
+                <property name="url" value="jdbc:mysql://39.96.162.54:3306/demo?userSSL=true&amp;useUnicode=true&amp;characterEncoding=UTF-8"/>
+                <!--用户名-->
+                <property name="username" value="root"/>
+                <!--密码-->
+                <property name="password" value="qweqwe"/>
+            </dataSource>
+        </environment>
+    </environments>
+
+
+    <!--每一个 XXXMapper.xml 都需要在核心配置文件中注册-->
+    <mappers>
+        <mapper resource="com/by/dao/UserMapper.xml"/>
+    </mappers>
+    
+</configuration>
+```

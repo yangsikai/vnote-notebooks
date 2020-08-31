@@ -7,13 +7,16 @@
             "name": "Tomcat"
         },
         {
-            "name": "Servlet & JSP"
+            "name": "Servlet"
         },
         {
-            "name": "SSH"
+            "name": "JSP"
         },
         {
-            "name": "SSM"
+            "name": "EL & JSTL"
+        },
+        {
+            "name": "MVC架构"
         }
     ],
     "version": "1"
