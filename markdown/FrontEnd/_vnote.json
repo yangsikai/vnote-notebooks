@@ -19,9 +19,6 @@
             "name": "常用库"
         },
         {
-            "name": "TypeScript"
-        },
-        {
             "name": "jQuery"
         },
         {
@@ -29,6 +26,9 @@
         },
         {
             "name": "Node"
+        },
+        {
+            "name": "TypeScript"
         },
         {
             "name": "Deno"
